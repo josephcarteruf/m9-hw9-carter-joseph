@@ -58,3 +58,6 @@ Please submit both a link to your repository and a link to the live site. Also p
 
 * [CSS media queries on W3 Schools](https://www.w3schools.com/css/css3_mediaqueries.asp)
 * [A Complete Guide to CSS Media Queries on CSS-Tricks](https://css-tricks.com/a-complete-guide-to-css-media-queries/)
+
+Stumbling blocks:
+unable to get the links in the header to center and stack
